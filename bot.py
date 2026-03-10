@@ -16,6 +16,9 @@ InlineKeyboardMarkup, InlineKeyboardButton,
 
 # └─────────────────────────────────────────────────────────┘
 
+import os
+TOKEN = os.getenv("BOT_TOKEN")
+
 TOKEN          = 8557443538:AAHwd2tcJo3RkrZ31AwpEd7Rw-4uZ08W5mg
 ADMIN_ID       = 7118888508
 OBSERVER_IDS   = [5936919228]
