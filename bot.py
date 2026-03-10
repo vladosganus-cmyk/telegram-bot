@@ -16,7 +16,7 @@ InlineKeyboardMarkup, InlineKeyboardButton,
 
 # └─────────────────────────────────────────────────────────┘
 
-TOKEN          = “8510880670:AAG3qezehb-9QF9RCpJDvLtmOkMAvaKhh_c”
+TOKEN          = 8557443538:AAHwd2tcJo3RkrZ31AwpEd7Rw-4uZ08W5mg
 ADMIN_ID       = 7118888508
 OBSERVER_IDS   = [5936919228]
 
