@@ -22,8 +22,8 @@ OBSERVER_IDS   = [5936919228]
 
 UAH_PER_STAR   = 0.75
 USD_PER_STAR   = 0.025
-CARD           = “5168752119088246”
-TON            = “UQCy3DgiF5o2rqTrAZKAWGStfWlmxBU3RFHa-FlOlVkUnaFU”
+CARD           = "5168752119088246"
+TON            = "UQCy3DgiF5o2rqTrAZKAWGStfWlmxBU3RFHa-FlOlVkUnaFU"
 
 PREM_UAH = {1: 129,  3: 349,  6: 649,  12: 1199}
 PREM_TON = {1: 3.5,  3: 9.5,  6: 17.5, 12: 32.0}
@@ -31,7 +31,7 @@ PREM_TON = {1: 3.5,  3: 9.5,  6: 17.5, 12: 32.0}
 REF_BONUS    = 2
 MAX_REQUESTS = 5
 
-logging.basicConfig(level=logging.INFO, format=”%(asctime)s %(levelname)s %(message)s”)
+logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
 
 # ┌─────────────────────────────────────────────────────────┐
 
@@ -40,11 +40,11 @@ logging.basicConfig(level=logging.INFO, format=”%(asctime)s %(levelname)s %(me
 # └─────────────────────────────────────────────────────────┘
 
 LANG = {
-“uk”: {
-“pick_lang”:    “🌐 Оберіть мову:”,
-“welcome”:      “👋 Привіт, {name}!\n\nЛаскаво просимо до <b>Nexora Stars Bot</b> ⭐\nКупуй Telegram Stars та Premium вигідно.\n\nОбери пункт меню 👇”,
-“btn_buy”:      “⭐ Купити зірки”,
-“btn_bal”:      “💰 Баланс”,
+"uk": {
+"pick_lang":    "🌐 Оберіть мову:",
+"welcome":      "👋 Привіт, {name}!\n\nЛаскаво просимо до <b>Nexora Stars Bot</b> ⭐\nКупуй Telegram Stars та Premium вигідно.\n\nОбери пункт меню 👇",
+"btn_buy":      "⭐ Купити зірки",
+“btn_bal":      "💰 Баланс",
 “btn_wd”:       “📤 Вивід зірок”,
 “btn_prem”:     “💎 Telegram Premium”,
 “btn_calc”:     “🧮 Калькулятор”,
