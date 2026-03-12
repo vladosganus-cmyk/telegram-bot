@@ -44,33 +44,33 @@ LANG = {
 "pick_lang":    "🌐 Оберіть мову:",
 "welcome":      "👋 Привіт, {name}!\n\nЛаскаво просимо до <b>Nexora Stars Bot</b> ⭐\nКупуй Telegram Stars та Premium вигідно.\n\nОбери пункт меню 👇",
 "btn_buy":      "⭐ Купити зірки",
-“btn_bal":      "💰 Баланс",
-“btn_wd”:       “📤 Вивід зірок”,
-“btn_prem”:     “💎 Telegram Premium”,
-“btn_calc”:     “🧮 Калькулятор”,
-“btn_support”:  “🛟 Підтримка”,
-“btn_ref”:      “👥 Реферали”,
-“btn_tasks”:    “📋 Завдання”,
-“btn_info”:     “ℹ️ Інформація”,
-“btn_lang”:     “🌐 Мова”,
-“info”: (
-“📌 <b>Nexora Stars Bot</b>\n\n”
-“<b>⭐ Зірки:</b>\n”
-f”  • {UAH_PER_STAR} грн / зірка (ПриватБанк)\n”
-f”  • ${USD_PER_STAR} / зірка (TON)\n\n”
-“<b>💎 Premium:</b>\n”
-“  • 1 міс  — 129 грн / 3.5 TON\n”
-“  • 3 міс  — 349 грн / 9.5 TON\n”
-“  • 6 міс  — 649 грн / 17.5 TON\n”
-“  • 12 міс — 1199 грн / 32 TON\n\n”
-f”<b>💳 ПриватБанк:</b> <code>{CARD}</code>\n”
-f”<b>💎 TON:</b> <code>{TON}</code>\n\n”
-“⚠️ Всі підтвердження вручну адміністратором.”
+"btn_bal":      "💰 Баланс",
+"btn_wd":       "📤 Вивід зірок",
+"btn_prem":     "💎 Telegram Premium",
+"btn_calc":     "🧮 Калькулятор",
+"btn_support":  "🛟 Підтримка",
+"btn_ref":      "👥 Реферали",
+"btn_tasks":    "📋 Завдання",
+"btn_info":     "ℹ️ Інформація",
+"btn_lang":     "🌐 Мова",
+"info": (
+"📌 <b>Nexora Stars Bot</b>\n\n"
+"<b>⭐ Зірки:</b>\n"
+f"  • {UAH_PER_STAR} грн / зірка (ПриватБанк)\n"
+f"  • ${USD_PER_STAR} / зірка (TON)\n\n"
+"<b>💎 Premium:</b>\n"
+"  • 1 міс  — 129 грн / 3.5 TON\n"
+" • 3 міс  — 349 грн / 9.5 TON\n"
+"  • 6 міс  — 649 грн / 17.5 TON\n"
+"  • 12 міс — 1199 грн / 32 TON\n\n"
+f"<b>💳 ПриватБанк:</b> <code>{CARD}</code>\n"
+f"<b>💎 TON:</b> <code>{TON}</code>\n\n"
+"⚠️ Всі підтвердження вручну адміністратором."
 ),
-“bal”:          “💰 Ваш баланс: <b>{n} ⭐</b>”,
-“calc_ask”:     “🧮 <b>Калькулятор</b>\n\nОбери режим:”,
-“calc_stars”:   “⭐ Зірки → скільки платити”,
-“calc_uah”:     “💰 Гривні → скільки зірок”,
+"bal":          "💰 Ваш баланс: <b>{n} ⭐</b>",
+"calc_ask":     "🧮 <b>Калькулятор</b>\n\nОбери режим:",
+"calc_stars":   "⭐ Зірки → скільки платити",
+"calc_uah":     "💰 Гривні → скільки зірок",
 “calc_enter_s”: “Введіть кількість зірок:”,
 “calc_enter_u”: “Введіть суму в гривнях:”,
 “calc_res_s”:   “⭐ <b>{s} зірок</b> = <b>{u} грн</b> або <b>${d}</b>”,
